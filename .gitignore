@@ -130,3 +130,5 @@ dmypy.json
 
 **/data
 **/mnist_subset
+**/images
+**/ex6_data.npz
