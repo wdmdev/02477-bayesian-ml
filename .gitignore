@@ -132,3 +132,15 @@ dmypy.json
 **/mnist_subset
 **/images
 **/ex6_data.npz
+
+*.npz
+*.csv
+
+*.pptx
+
+
+
+
+
+
+
